@@ -346,19 +346,19 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/kmtz_channel_v3"
                 ),
             button()
                 (
                     "Source",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/Prv_35"
                 )
         ],
         [
             button()
                 (
                     "Tutorial",
-                        url="https://youtu.be/63K9xkKMBoo"
+                        url="https://t.me/Prv_35bot"
                 ),
             button()
                 (
