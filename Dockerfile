@@ -10,9 +10,9 @@ RUN cd /
 
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
 
-RUN mkdir /DQ-The-File-Donor
+RUN mkdir /Prv--managebot
 
-WORKDIR /DQ-The-File-Donor
+WORKDIR /Prv--managebot
 
 COPY start.sh /start.sh
 
