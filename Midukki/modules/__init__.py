@@ -363,7 +363,7 @@ class vars(object):
             button()
                 (
                     "Insta",
-                        url="https://www.instagram.com/mrk_yt_"
+                        url="https://www.instagram.com/KL_02_pranav_"
                 )
         ],
         [
