@@ -44,11 +44,11 @@ class Configs(object):
     # bot information   
     COMMAND_PREFIXES = environ.get("COMMAND_PREFIXES", "/")
     if environ.get("BOT_PICS"):
-        START_PICS = (environ.get("BOT_PICS", "https://telegra.ph/file/5ad2c57ae74bafb6efec1.jpg")).split()
+        START_PICS = (environ.get("BOT_PICS", "https://i.ibb.co/hydXr1L/file-195.jpg")).split()
     START_MESSAGE = environ.get("START_MESSAGE", START_TXT)
 
     # MongoDB information
-    DATABASE_NAME = environ.get("DATABASE_NAME", "Muhammed")
+    DATABASE_NAME = environ.get("DATABASE_NAME", "Prv")
     DATABASE_URL = environ.get("DATABASE_URL", None)
     COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
