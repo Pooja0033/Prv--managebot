@@ -4,17 +4,17 @@ then
 
   echo "Cloning main Repository"
 
-  git clone https://github.com/Pooja0033/Prv_35.git /Prv_35
+  git clone https://github.com/Pooja0033/Prv--managebot.git /Prv--managebot
 
 else
 
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
 
-  git clone $UPSTREAM_REPO /Prv_35
+  git clone $UPSTREAM_REPO /Prv--managebot
 
 fi
 
-cd /Prv_35
+cd /Prv--managebot
 
 pip3 install -U -r requirements.txt
 
